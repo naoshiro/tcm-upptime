@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcm-prd.clann-inc.com.ico",
     "slug": "tcm-prd",
     "status": "down",
-    "uptime": "93.06%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "93.06%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "93.06%",
+    "uptime": "54.09%",
+    "uptimeDay": "54.09%",
+    "uptimeWeek": "54.09%",
+    "uptimeMonth": "54.09%",
+    "uptimeYear": "54.09%",
     "time": 238,
     "timeDay": 238,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 7
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcm-stg.clann-inc.com.ico",
     "slug": "tcm-stg",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptime": "57.33%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "57.33%",
+    "uptimeMonth": "57.33%",
+    "uptimeYear": "57.33%",
     "time": 417,
     "timeDay": 417,
     "timeWeek": 417,
     "timeMonth": 417,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-09": 0
+      "2023-03-09": 7
     }
   }
 ]
