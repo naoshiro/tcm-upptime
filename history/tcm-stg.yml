@@ -1,7 +1,7 @@
-url: http://tcm-stg.clann-inc.com/
+url: http://tcm-stg.clann.dev/
 status: down
-code: 401
-responseTime: 341
-lastUpdated: 2023-03-09T23:03:48.738Z
+code: 404
+responseTime: 374
+lastUpdated: 2023-03-10T10:04:44.907Z
 startTime: Thu Mar 09 2023 07:49:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
