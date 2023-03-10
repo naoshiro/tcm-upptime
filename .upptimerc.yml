@@ -3,9 +3,15 @@ repo: tcm-upptime
 
 sites:
   - name: tcm-prd
-    url: http://tcm-prd.clann-inc.com/
+    url: http://tcm-prd.clann.dev/
   - name: tcm-stg
-    url: http://tcm-stg.clann-inc.com/
+    url: http://tcm-stg.clann.dev/
+  - name: tcm-admin
+    url: http://tcm-admin.clann.dev/
+  - name: tcm-kioku
+    url: http://tcm-kioku.clann.dev/
+  - name: tcm-guide
+    url: http://tcm-guide.clann.dev/
 
 status-website:
   baseUrl: /tcm-upptime
