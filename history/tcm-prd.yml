@@ -1,7 +1,7 @@
-url: http://tcm-prd.clann.dev/
-status: down
-code: 404
-responseTime: 372
-lastUpdated: 2023-03-10T10:04:41.971Z
+url: https://tcm-prd.clann.dev/
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2023-03-10T10:05:56.312Z
 startTime: Thu Mar 09 2023 07:49:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
