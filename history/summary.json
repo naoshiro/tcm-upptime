@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcm-prd.clann.dev.ico",
     "slug": "tcm-prd",
     "status": "down",
-    "uptime": "47.69%",
+    "uptime": "47.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.69%",
-    "uptimeYear": "47.69%",
+    "uptimeMonth": "47.60%",
+    "uptimeYear": "47.60%",
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 602,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-04-07": 475,
+      "2023-04-07": 554,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
@@ -51,7 +51,7 @@
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-04-07": 475,
+      "2023-04-07": 554,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
@@ -88,19 +88,19 @@
     "url": "https://tcm-admin.clann.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/tcm-admin.clann.dev.ico",
     "slug": "tcm-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 807,
-    "timeWeek": 741,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 792,
+    "timeDay": 1129,
+    "timeWeek": 856,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 78
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcm-kioku.clann.dev.ico",
     "slug": "tcm-kioku",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.80%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 785,
     "timeDay": 817,
     "timeWeek": 841,
     "timeMonth": 785,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 79
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcm-guide.clann.dev.ico",
     "slug": "tcm-guide",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 683,
     "timeDay": 765,
     "timeWeek": 725,
     "timeMonth": 683,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 79
     }
   }
 ]
