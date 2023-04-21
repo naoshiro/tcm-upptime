@@ -2,16 +2,16 @@ owner: clann-inc
 repo: tcm-upptime
 
 sites:
-  - name: tcm-prd
-    url: https://tcm-prd.clann.dev/
-  - name: tcm-stg
-    url: https://tcm-stg.clann.dev/
-  - name: tcm-admin
-    url: https://tcm-admin.clann.dev/
-  - name: tcm-kioku
-    url: https://tcm-kioku.clann.dev/
-  - name: tcm-guide
-    url: https://tcm-guide.clann.dev/
+  - name: prd
+    url: https://hakubutsukan.city.toyota.aichi.jp/
+  - name: stg
+    url: https://hakubutsukan-stg.city.toyota.aichi.jp/
+  - name: admin
+    url: https://admin.hakubutsukan.city.toyota.aichi.jp/
+  - name: kioku
+    url: https://kioku.hakubutsukan.city.toyota.aichi.jp/
+  - name: guide
+    url: https://guide.hakubutsukan.city.toyota.aichi.jp/
 
 status-website:
   baseUrl: /tcm-upptime
