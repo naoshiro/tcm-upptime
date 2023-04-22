@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2818,
-    "timeDay": 2818,
-    "timeWeek": 2818,
-    "timeMonth": 2818,
-    "timeYear": 2818,
+    "time": 2054,
+    "timeDay": 2054,
+    "timeWeek": 2054,
+    "timeMonth": 2054,
+    "timeYear": 2054,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hakubutsukan-stg.city.toyota.aichi.jp.ico",
     "slug": "stg",
     "status": "down",
-    "uptime": "8.21%",
-    "uptimeDay": "8.21%",
-    "uptimeWeek": "8.21%",
-    "uptimeMonth": "8.21%",
-    "uptimeYear": "8.21%",
-    "time": 889,
-    "timeDay": 889,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 786,
+    "timeDay": 786,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 4,
+      "2023-04-21": 1355
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.hakubutsukan.city.toyota.aichi.jp.ico",
     "slug": "admin",
     "status": "down",
-    "uptime": "5.89%",
-    "uptimeDay": "5.89%",
-    "uptimeWeek": "5.89%",
-    "uptimeMonth": "5.89%",
-    "uptimeYear": "5.89%",
-    "time": 809,
-    "timeDay": 809,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 4,
+      "2023-04-21": 1355
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kioku.hakubutsukan.city.toyota.aichi.jp.ico",
     "slug": "kioku",
     "status": "down",
-    "uptime": "14.48%",
-    "uptimeDay": "14.48%",
-    "uptimeWeek": "14.48%",
-    "uptimeMonth": "14.48%",
-    "uptimeYear": "14.48%",
-    "time": 922,
-    "timeDay": 922,
-    "timeWeek": 922,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 801,
+    "timeDay": 801,
+    "timeWeek": 801,
+    "timeMonth": 801,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 4,
+      "2023-04-21": 1355
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/guide.hakubutsukan.city.toyota.aichi.jp.ico",
     "slug": "guide",
     "status": "down",
-    "uptime": "11.80%",
-    "uptimeDay": "11.80%",
-    "uptimeWeek": "11.80%",
-    "uptimeMonth": "11.80%",
-    "uptimeYear": "11.80%",
-    "time": 912,
-    "timeDay": 912,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 800,
+    "timeDay": 800,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 4,
+      "2023-04-21": 1355
     }
   }
 ]
