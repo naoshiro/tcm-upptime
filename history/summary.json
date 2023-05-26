@@ -4,9 +4,9 @@
     "url": "https://hakubutsukan.city.toyota.aichi.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/hakubutsukan.city.toyota.aichi.jp.ico",
     "slug": "prd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1409,
     "timeMonth": 1401,
     "timeYear": 1439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-26": 0
+    }
   },
   {
     "name": "stg",
@@ -34,7 +36,7 @@
     "timeMonth": 863,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-05-26": 3,
+      "2023-05-26": 564,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -89,7 +91,7 @@
     "timeMonth": 857,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-05-26": 3,
+      "2023-05-26": 564,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -144,7 +146,7 @@
     "timeMonth": 781,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2023-05-26": 3,
+      "2023-05-26": 564,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -199,7 +201,7 @@
     "timeMonth": 833,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2023-05-26": 3,
+      "2023-05-26": 564,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
