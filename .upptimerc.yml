@@ -10,7 +10,7 @@ sites:
     url: https://admin.hakubutsukan.city.toyota.aichi.jp/
   - name: kioku
     url: https://kioku.hakubutsukan.city.toyota.aichi.jp/
-  - name: guide
+  - name: guide２
     url: https://guide.hakubutsukan.city.toyota.aichi.jp/
 
 status-website:
