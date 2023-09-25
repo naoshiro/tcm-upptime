@@ -16,7 +16,7 @@ sites:
 status-website:
   baseUrl: /tcm-upptime
   logoUrl: https://clann.werte.jp/wp-content/uploads/2020/07/logo.svg
-  name: PRJ監視
+  name: PRJ監視v1.1
   introTitle: ウェブサイト死活監視システム
   introMessage: 次のサイトの死活監視状況。5分毎にチェックしています。
   navbar:
